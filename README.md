@@ -1,4 +1,4 @@
-this machine learning project involving the creation of a K-Nearest Neighbors (KNN) classification model for Iris flower classification.
+This machine learning project involves the creation of a K-Nearest Neighbors (KNN) classification model for Iris flower classification.
 This KNN model helps categorize Iris flowers into their respective species - Setosa, Versicolor, and Virginica based on their measurements.
 
 Setosa![51376589362_b92e27ae7a_b](https://github.com/SwatiKushwaha24/Iris-Flower-Classification/assets/105541005/f403b80e-9758-4e16-85f7-9375d4136fbd)
